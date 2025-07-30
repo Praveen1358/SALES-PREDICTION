@@ -1,0 +1,20 @@
+h1 {
+    color: #0e1117;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.stButton > button {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 24px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.stSelectbox, .stNumberInput {
+    margin-bottom: 15px;
+}
